@@ -1,1 +1,1 @@
-my over the wire -> bandit writeups
+my over the wire bandit writeups
