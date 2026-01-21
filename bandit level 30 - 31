@@ -1,0 +1,15 @@
+# Bandit Level 30 → Level 31
+
+## What I did
+I inspected Git tags to find hidden information.
+
+## Commands I used
+git tag
+git show secret
+
+## Result
+I got the password for Level 31.
+
+## What I learned
+- Understanding Git tags
+- Inspecting tagged commits
