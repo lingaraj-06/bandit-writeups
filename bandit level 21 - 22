@@ -1,0 +1,15 @@
+# Bandit Level 21 → Level 22
+
+## What I did
+I analyzed a cron job script to find where the password was stored.
+
+## Commands I used
+cat /etc/cron.d/cronjob_bandit22
+cat /usr/bin/cronjob_bandit22.sh
+
+## Result
+I got the password for Level 22.
+
+## What I learned
+- How cron jobs work
+- Reading scheduled scripts
