@@ -1,0 +1,15 @@
+# Bandit Level 32 → Level 33
+
+## What I did
+I escaped an uppercase-only shell to get normal command execution.
+
+## Commands I used
+$0
+/bin/bash
+
+## Result
+I got the password for Level 33.
+
+## What I learned
+- Shell environment variables
+- Escaping command restrictions
