@@ -1,0 +1,14 @@
+# Bandit Level 18 → Level 19
+
+## What I did
+I bypassed an automatic logout by executing a command directly over SSH.
+
+## Commands I used
+ssh bandit18@bandit.labs.overthewire.org -p 2220 "cat readme"
+
+## Result
+I got the password for Level 19.
+
+## What I learned
+- Executing remote commands via SSH
+- Handling restricted login shells
