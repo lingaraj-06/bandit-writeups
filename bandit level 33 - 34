@@ -1,0 +1,14 @@
+# Bandit Level 33 → Level 34
+
+## What I did
+I read the final file containing the last password.
+
+## Commands I used
+cat README.txt
+
+## Result
+I completed the Bandit wargame.
+
+## What I learned
+- Applying cumulative Linux knowledge
+- Problem-solving through practice
