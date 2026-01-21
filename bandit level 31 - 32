@@ -1,0 +1,15 @@
+# Bandit Level 31 → Level 32
+
+## What I did
+I found a hidden file that was ignored by Git.
+
+## Commands I used
+ls -a
+cat .hidden
+
+## Result
+I got the password for Level 32.
+
+## What I learned
+- Hidden files in repositories
+- Git ignore behavior
