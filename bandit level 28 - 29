@@ -1,0 +1,15 @@
+# Bandit Level 28 → Level 29
+
+## What I did
+I searched through the Git commit history to find the password.
+
+## Commands I used
+git log
+git show <commit-id>
+
+## Result
+I got the password for Level 29.
+
+## What I learned
+- Viewing commit history
+- Inspecting previous Git versions
